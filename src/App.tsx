@@ -53,7 +53,7 @@ function App() {
           Simply type a few ingredients using the format ingredient1,
           ingredient2, etc., and Recipe AI will generate an all-new recipe on
           demand...
-          <span className='dev'>dev: J.Mcmillan</span>
+          <p className='dev'>dev: J.Mcmillan</p>
         </p>
       </div>
       <form onSubmit={onSubmit} className='form-container'>
